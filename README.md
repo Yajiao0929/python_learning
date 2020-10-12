@@ -6,7 +6,7 @@ python learning note / basic knowledge
 2. df[]
 3. loc[] iloc[] at[] iat[]
 4. query[]
-### 20201009 update
+### 20201009 浅見さんツールから
 #### some functions you need to know:  
 pandas, /  
 def func() defnition,  
@@ -29,12 +29,16 @@ skiprows
 contact  
 end  
 
-### 20201012
+### 20201012　石橋さんツールから
 1. input("promt")    
 a = input("select your number:")  
 input: 234  
 a  
 234  
+2. tkinter  
+filedialog, messagebox  
+3. os.path.abspath  
+
 [useful website](https://www.runoob.com/python/python-func-input.html)  
 
 
